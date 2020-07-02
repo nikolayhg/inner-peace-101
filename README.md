@@ -1,13 +1,13 @@
 # Inner Peace 101
 
-A: Have you ever experienced anything outside of your experience?
+Q: Have you ever experienced anything outside of your experience?
 
-B: No
+A: No
 
-A: Has any object of any of your experiences remained constant in your experience from your birth to your death?
+Q: Has any object of any of your experiences remained constant in your experience from your birth to your death?
 
-B: No
+A: No
 
-A: What remains constant in any of your experiences?
+Q: What remains constant in any of your experiences?
 
-B: Experiencing
+A: Experiencing
